@@ -1,0 +1,2700 @@
+[{
+  "_id": 5,
+  "Canción": "Canción5",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "Gómez",
+    "Edad": 28,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 5",
+  "Género musical": "Ranchera",
+  "Álbum": "Voces del Corazón",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 55
+  },
+  "Letra": "Bajo el sombrero ranchero, donde el amor se desvela,\nCantamos con pasión, en una ranchera de lamento,\nEs el grito del alma, historias de desamor,\nEn cada verso, siento el dolor, ranchera, voz del corazón.\n\nLas guitarras resuenan, el tequila nos consuela,\nTus palabras en mi mente, como espinas en el viento,\nEl mundo desaparece, somos tú y yo, en la tristeza eterna,\nEn esta canción ranchera, nuestro lamento sincero.\n\nEs el lamento del pueblo, el desgarro del alma,\nLetras que cuentan historias, tragedias y calma,\nEn cada estrofa, el sentimiento se derrama,\nRanchera, canto sincero, en cada copa de tequila, el drama.\n\nEspero que esta letra de canción de ranchera te haga sentir el alma de México. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 4,
+  "Canción": "Canción4",
+  "Autor": {
+    "Nombres": "Alejandro",
+    "Apellidos": "Sánchez",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 4",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 3,
+  "Canción": "Canción3",
+  "Autor": {
+    "Nombres": "Isabella",
+    "Apellidos": "Ríos",
+    "Edad": 29,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 3",
+  "Género musical": "Reggaetón",
+  "Álbum": "Fuego en la Pista",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "En la fiesta en la playa, todo se enciende,\nBajo la luna llena, el reggaetón nos prenderá,\nBailando sin parar, la noche es nuestra,\nLa pista arde con pasión, nadie se queda atrás.\n\nEs el ritmo del perreo, sensual y audaz,\nLetras atrevidas, nadie se detendrá,\nEn cada verso, siento la fiesta que jamás se irá,\nReggaetón, fuego en la pista, el ritmo que nos liberará.\n\nLas olas en el fondo, la brisa en la piel,\nSomos uno en el reggaetón, te hago arder de placer,\nEn cada movimiento, la pasión se hace notar,\nLa fiesta nunca se acaba, el reggaetón nos hará volar.\n\nEs el ritmo del perreo, sensual y audaz,\nLetras atrevidas, nadie se detendrá,\nEn cada verso, siento la fiesta que jamás se irá,\nReggaetón, fuego en la pista, el ritmo que nos liberará.\n\nEspero que esta letra de canción de reggaetón te haga vibrar. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 8,
+  "Canción": "Canción8",
+  "Autor": {
+    "Nombres": "Javier",
+    "Apellidos": "Rodríguez",
+    "Edad": 26,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 8",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 10,
+  "Canción": "Canción10",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Lopez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 10",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 58
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 13,
+  "Canción": "Canción13",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Lopez",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 13",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 2
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 21,
+  "Canción": "Canción21",
+  "Autor": {
+    "Nombres": "Pedro",
+    "Apellidos": "Ruíz",
+    "Edad": 33,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 21",
+  "Género musical": "Ranchera",
+  "Álbum": "Voces del Corazón",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "Bajo el sombrero ranchero, donde el amor se desvela,\nCantamos con pasión, en una ranchera de lamento,\nEs el grito del alma, historias de desamor,\nEn cada verso, siento el dolor, ranchera, voz del corazón.\n\nLas guitarras resuenan, el tequila nos consuela,\nTus palabras en mi mente, como espinas en el viento,\nEl mundo desaparece, somos tú y yo, en la tristeza eterna,\nEn esta canción ranchera, nuestro lamento sincero.\n\nEs el lamento del pueblo, el desgarro del alma,\nLetras que cuentan historias, tragedias y calma,\nEn cada estrofa, el sentimiento se derrama,\nRanchera, canto sincero, en cada copa de tequila, el drama.\n\nEspero que esta letra de canción de ranchera te haga sentir el alma de México. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 23,
+  "Canción": "Canción23",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Lopez",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 23",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 58
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 33,
+  "Canción": "Canción33",
+  "Autor": {
+    "Nombres": "Roberto",
+    "Apellidos": "Moreno",
+    "Edad": 31,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 33",
+  "Género musical": "Ranchera",
+  "Álbum": "Pasión Mexicana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En el corazón de Jalisco, donde el mariachi suena, ... (Letra de la canción)"
+},
+{
+  "_id": 35,
+  "Canción": "Canción35",
+  "Autor": {
+    "Nombres": "Manuel",
+    "Apellidos": "Martínez",
+    "Edad": 33,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 35",
+  "Género musical": "Ranchera",
+  "Álbum": "Pasión Mexicana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "En el corazón de Jalisco, donde el mariachi suena, ... (Letra de la canción)"
+},
+{
+  "_id": 17,
+  "Canción": "Canción17",
+  "Autor": {
+    "Nombres": "Isabella",
+    "Apellidos": "Ríos",
+    "Edad": 29,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 17",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto,\nBailamos la cumbia, al ritmo del tambor y el bongó,\nGirando y girando, la fiesta nunca se hace poco,\nCumbia, alegría contagiosa, en cada paso, un abrazo.\n\nEs el sonido de la marimba, la brisa en la cara,\nLetras que celebran la vida, la noche es nuestra atarazana,\nEn cada estrofa, la alegría se desborda sin parar,\nCumbia, ritmo caliente, en cada corazón, la danza.\n\nLas palmas y la maraca, el baile no se compara,\nTus caderas en mi mente, como una llama que no se apaga,\nEl mundo desaparece, somos tú y yo, en esta fiesta sincera,\nEn esta canción de cumbia, la alegría que no se espera.\n\nEs el ritmo de la costa, la pasión que nos desborda,\nLetras que cuentan historias, la fiesta nunca se acaba,\nEn cada estrofa, la cumbia nos envuelve y conforta,\nCumbia, ritmo caliente, en cada alma, la pasión no se traba.\n\nEspero que esta letra de canción de cumbia te haga sentir la fiesta caribeña. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 22,
+  "Canción": "Canción22",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 22",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en el Baile",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En el rincón del barrio, donde el tango se despierta,\nBailamos abrazados, en cada compás el alma se libera,\nEs el lamento en el bandoneón, historias de amor y puñales,\nEn cada verso, siento el suspiro, tango, pasión en los bares.\n\nLas luces tenues iluminan la pista secreta,\nTus pasos en mi mente, como la nostalgia que aprieta,\nEl mundo desaparece, somos tú y yo, en esta danza repleta,\nEn esta canción de tango, el abrazo que el corazón interpreta.\n\nEs el lamento del suburbio, el romance de la ciudad,\nLetras que narran amores, traiciones, verdad,\nEn cada estrofa, la pasión se desborda, no hay soledad,\nTango, música del alma, en cada corazón, una realidad.\n\nEspero que esta letra de canción de tango te haga sentir el abrazo apasionado. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 32,
+  "Canción": "Canción32",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "García",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 32",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida, ... (Letra de la canción)"
+},
+{
+  "_id": 37,
+  "Canción": "Canción37",
+  "Autor": {
+    "Nombres": "Pablo",
+    "Apellidos": "Soto",
+    "Edad": 26,
+    "País de origen": "Chile"
+  },
+  "Interprete": "Artista 37",
+  "Género musical": "Pop latino",
+  "Álbum": "Balas perdidas",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 27
+  },
+  "Letra": "En la ciudad de luces brillantes, ... (Letra de la canción)"
+},
+{
+  "_id": 7,
+  "Canción": "Canción7",
+  "Autor": {
+    "Nombres": "Isabel",
+    "Apellidos": "Martínez",
+    "Edad": 31,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 7",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto,\nBailamos la cumbia, al ritmo del tambor y el bongó,\nGirando y girando, la fiesta nunca se hace poco,\nCumbia, alegría contagiosa, en cada paso, un abrazo.\n\nEs el sonido de la marimba, la brisa en la cara,\nLetras que celebran la vida, la noche es nuestra atarazana,\nEn cada estrofa, la alegría se desborda sin parar,\nCumbia, ritmo caliente, en cada corazón, la danza.\n\nLas palmas y la maraca, el baile no se compara,\nTus caderas en mi mente, como una llama que no se apaga,\nEl mundo desaparece, somos tú y yo, en esta fiesta sincera,\nEn esta canción de cumbia, la alegría que no se espera.\n\nEs el ritmo de la costa, la pasión que nos desborda,\nLetras que cuentan historias, la fiesta nunca se acaba,\nEn cada estrofa, la cumbia nos envuelve y conforta,\nCumbia, ritmo caliente, en cada alma, la pasión no se traba.\n\nEspero que esta letra de canción de cumbia te haga sentir la fiesta caribeña. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 29,
+  "Canción": "Canción29",
+  "Autor": {
+    "Nombres": "Alejandra",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 29",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en el Baile",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "En el rincón del barrio, donde el tango se despierta,\nBailamos abrazados, en cada compás el alma se libera,\nEs el lamento en el bandoneón, historias de amor y puñales,\nEn cada verso, siento el suspiro, tango, pasión en los bares.\n\nLas luces tenues iluminan la pista secreta,\nTus pasos en mi mente, como la nostalgia que aprieta,\nEl mundo desaparece, somos tú y yo, en esta danza repleta,\nEn esta canción de tango, el abrazo que el corazón interpreta.\n\nEs el lamento del suburbio, el romance de la ciudad,\nLetras que narran amores, traiciones, verdad,\nEn cada estrofa, la pasión se desborda, no hay soledad,\nTango, música del alma, en cada corazón, una realidad.\n\nEspero que esta letra de canción de tango te haga sentir el abrazo apasionado. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 39,
+  "Canción": "Canción39",
+  "Autor": {
+    "Nombres": "Emilio",
+    "Apellidos": "Vargas",
+    "Edad": 32,
+    "País de origen": "Perú"
+  },
+  "Interprete": "Artista 39",
+  "Género musical": "Salsa",
+  "Álbum": "Sabor Tropical",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "En la pista de baile, la salsa nos envuelve, ... (Letra de la canción)"
+},
+{
+  "_id": 42,
+  "Canción": "Canción42",
+  "Autor": {
+    "Nombres": "Julia",
+    "Apellidos": "Fernández",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 42",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 20
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida, ... (Letra de la canción)"
+},
+{
+  "_id": 25,
+  "Canción": "Canción25",
+  "Autor": {
+    "Nombres": "Luis",
+    "Apellidos": "González",
+    "Edad": 33,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 25",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En el rincón del pueblo, donde el mariachi canta,\nVestidos de charro, la música nos levanta,\nGuitarras y trompetas, la fiesta nunca se quebranta,\nMariachi, orgullo mexicano, en cada nota, una planta.\n\nEs el grito de ¡Viva México! en cada plaza,\nLetras que celebran la patria, en cada voz, una casa,\nEn cada estrofa, el alma se llena de esperanza,\nMariachi, música del pueblo, en cada corazón, bonanza.\n\nLas trompetas resplandecen, el violín no descansa,\nTus versos en mi mente, como un himno que avanza,\nEl mundo desaparece, somos tú y yo, en esta danza,\nEn esta canción de mariachi, la tradición que nunca se olvida.\n\nEs el grito de ¡Viva México! en cada plaza,\nLetras que celebran la patria, en cada voz, una casa,\nEn cada estrofa, el alma se llena de esperanza,\nMariachi, música del pueblo, en cada corazón, bonanza.\n\nEspero que esta letra de canción de mariachi te haga sentir el orgullo mexicano. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 1,
+  "Canción": "Canción1",
+  "Autor": {
+    "Nombres": "Bernabé Andre",
+    "Apellidos": "Bibanco Cuisada",
+    "Edad": 27,
+    "País de origen": "Perú"
+  },
+  "Interprete": "Artista 1",
+  "Género musical": "Pop latino",
+  "Álbum": "Balas perdidas",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 27
+  },
+  "Letra": "En la ciudad de luces brillantes,\nDonde el sol se oculta en el horizonte,\nCaminando por las calles de amor, \nTu mirada me atrapa, corazón responde.\n\nEs un romance en la noche estrellada,\nBajo el cielo de pasión enamorada,\nDanza conmigo, no hay más que esperar,\nDos almas unidas, sin miedo a volar.\n\nLa música suena, nos lleva a bailar,\nTus manos en las mías, sin parar de girar,\nEl mundo desaparece, solo somos tú y yo,\nEn esta canción de amor, nuestro eterno arrebato.\n\nEs un romance en la noche estrellada,\nBajo el cielo de pasión enamorada,\nDanza conmigo, no hay más que esperar,\nDos almas unidas, sin miedo a volar.\n\nY cuando el sol regrese al amanecer,\nNuestro amor seguirá, no hay por qué temer,\nSomos la melodía, la razón de existir,\nEn esta canción de pop latino, juntos a ser feliz.\n\nEs un romance en la noche estrellada,\nBajo el cielo de pasión enamorada,\nDanza conmigo, no hay más que esperar,\nDos almas unidas, sin miedo a volar.\n\nEspero que te haya gustado esta letra de canción de pop latino. ¡Si deseas más, no dudes en preguntar!"
+},
+{
+  "_id": 11,
+  "Canción": "Canción11",
+  "Autor": {
+    "Nombres": "Pedro",
+    "Apellidos": "Ruíz",
+    "Edad": 32,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 11",
+  "Género musical": "Ranchera",
+  "Álbum": "Voces del Corazón",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "Bajo el sombrero ranchero, donde el amor se desvela,\nCantamos con pasión, en una ranchera de lamento,\nEs el grito del alma, historias de desamor,\nEn cada verso, siento el dolor, ranchera, voz del corazón.\n\nLas guitarras resuenan, el tequila nos consuela,\nTus palabras en mi mente, como espinas en el viento,\nEl mundo desaparece, somos tú y yo, en la tristeza eterna,\nEn esta canción ranchera, nuestro lamento sincero.\n\nEs el lamento del pueblo, el desgarro del alma,\nLetras que cuentan historias, tragedias y calma,\nEn cada estrofa, el sentimiento se derrama,\nRanchera, canto sincero, en cada copa de tequila, el drama.\n\nEspero que esta letra de canción de ranchera te haga sentir el alma de México. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 9,
+  "Canción": "Canción9",
+  "Autor": {
+    "Nombres": "Alejandra",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 9",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en el Baile",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En el rincón del barrio, donde el tango se despierta,\nBailamos abrazados, en cada compás el alma se libera,\nEs el lamento en el bandoneón, historias de amor y puñales,\nEn cada verso, siento el suspiro, tango, pasión en los bares.\n\nLas luces tenues iluminan la pista secreta,\nTus pasos en mi mente, como la nostalgia que aprieta,\nEl mundo desaparece, somos tú y yo, en esta danza repleta,\nEn esta canción de tango, el abrazo que el corazón interpreta.\n\nEs el lamento del suburbio, el romance de la ciudad,\nLetras que narran amores, traiciones, verdad,\nEn cada estrofa, la pasión se desborda, no hay soledad,\nTango, música del alma, en cada corazón, una realidad.\n\nEspero que esta letra de canción de tango te haga sentir el abrazo apasionado. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 19,
+  "Canción": "Canción19",
+  "Autor": {
+    "Nombres": "Alejandra",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 19",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en el Baile",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En el rincón del barrio, donde el tango se despierta,\nBailamos abrazados, en cada compás el alma se libera,\nEs el lamento en el bandoneón, historias de amor y puñales,\nEn cada verso, siento el suspiro, tango, pasión en los bares.\n\nLas luces tenues iluminan la pista secreta,\nTus pasos en mi mente, como la nostalgia que aprieta,\nEl mundo desaparece, somos tú y yo, en esta danza repleta,\nEn esta canción de tango, el abrazo que el corazón interpreta.\n\nEs el lamento del suburbio, el romance de la ciudad,\nLetras que narran amores, traiciones, verdad,\nEn cada estrofa, la pasión se desborda, no hay soledad,\nTango, música del alma, en cada corazón, una realidad.\n\nEspero que esta letra de canción de tango te haga sentir el abrazo apasionado. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 28,
+  "Canción": "Canción28",
+  "Autor": {
+    "Nombres": "Javier",
+    "Apellidos": "Rodríguez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 28",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 55
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 30,
+  "Canción": "Canción30",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Lopez",
+    "Edad": 26,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 30",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 58
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 34,
+  "Canción": "Canción34",
+  "Autor": {
+    "Nombres": "Isabella",
+    "Apellidos": "Ríos",
+    "Edad": 28,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 34",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto, ... (Letra de la canción)"
+},
+{
+  "_id": 44,
+  "Canción": "Canción44",
+  "Autor": {
+    "Nombres": "Gabriel",
+    "Apellidos": "Gómez",
+    "Edad": 29,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 44",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en el Baile",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "En el rincón del barrio, donde el tango se despierta, ... (Letra de la canción)"
+},
+{
+  "_id": 49,
+  "Canción": "Canción49",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "Márquez",
+    "Edad": 31,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 49",
+  "Género musical": "Ranchera",
+  "Álbum": "Pasión Mexicana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el corazón de Jalisco, donde el mariachi suena, ... (Letra de la canción)"
+},
+{
+  "_id": 26,
+  "Canción": "Canción26",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "Sánchez",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 26",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 2
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 27,
+  "Canción": "Canción27",
+  "Autor": {
+    "Nombres": "Isabella",
+    "Apellidos": "Ríos",
+    "Edad": 28,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 27",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto,\nBailamos la cumbia, al ritmo del tambor y el bongó,\nGirando y girando, la fiesta nunca se hace poco,\nCumbia, alegría contagiosa, en cada paso, un abrazo.\n\nEs el sonido de la marimba, la brisa en la cara,\nLetras que celebran la vida, la noche es nuestra atarazana,\nEn cada estrofa, la alegría se desborda sin parar,\nCumbia, ritmo caliente, en cada corazón, la danza.\n\nLas palmas y la maraca, el baile no se compara,\nTus caderas en mi mente, como una llama que no se apaga,\nEl mundo desaparece, somos tú y yo, en esta fiesta sincera,\nEn esta canción de cumbia, la alegría que no se espera.\n\nEs el ritmo de la costa, la pasión que nos desborda,\nLetras que cuentan historias, la fiesta nunca se acaba,\nEn cada estrofa, la cumbia nos envuelve y conforta,\nCumbia, ritmo caliente, en cada alma, la pasión no se traba.\n\nEspero que esta letra de canción de cumbia te haga sentir la fiesta caribeña. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 46,
+  "Canción": "Canción46",
+  "Autor": {
+    "Nombres": "Andrés",
+    "Apellidos": "Pérez",
+    "Edad": 30,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 46",
+  "Género musical": "Ranchera",
+  "Álbum": "Pasión Mexicana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el corazón de Jalisco, donde el mariachi suena, ... (Letra de la canción)"
+},
+{
+  "_id": 48,
+  "Canción": "Canción48",
+  "Autor": {
+    "Nombres": "Fernando",
+    "Apellidos": "Santos",
+    "Edad": 32,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 48",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida, ... (Letra de la canción)"
+},
+{
+  "_id": 14,
+  "Canción": "Canción14",
+  "Autor": {
+    "Nombres": "Eduardo",
+    "Apellidos": "Pérez",
+    "Edad": 35,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 14",
+  "Género musical": "Ranchera",
+  "Álbum": "Voces del Corazón",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 50
+  },
+  "Letra": "Bajo el sombrero ranchero, donde el amor se desvela,\nCantamos con pasión, en una ranchera de lamento,\nEs el grito del alma, historias de desamor,\nEn cada verso, siento el dolor, ranchera, voz del corazón.\n\nLas guitarras resuenan, el tequila nos consuela,\nTus palabras en mi mente, como espinas en el viento,\nEl mundo desaparece, somos tú y yo, en la tristeza eterna,\nEn esta canción ranchera, nuestro lamento sincero.\n\nEs el lamento del pueblo, el desgarro del alma,\nLetras que cuentan historias, tragedias y calma,\nEn cada estrofa, el sentimiento se derrama,\nRanchera, canto sincero, en cada copa de tequila, el drama.\n\nEspero que esta letra de canción de ranchera te haga sentir el alma de México. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 18,
+  "Canción": "Canción18",
+  "Autor": {
+    "Nombres": "Javier",
+    "Apellidos": "Rodríguez",
+    "Edad": 26,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 18",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 36,
+  "Canción": "Canción36",
+  "Autor": {
+    "Nombres": "Carla",
+    "Apellidos": "González",
+    "Edad": 29,
+    "País de origen": "Chile"
+  },
+  "Interprete": "Artista 36",
+  "Género musical": "Pop latino",
+  "Álbum": "Balas perdidas",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 20
+  },
+  "Letra": "En la ciudad de luces brillantes, ... (Letra de la canción)"
+},
+{
+  "_id": 38,
+  "Canción": "Canción38",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "López",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 38",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 8
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida, ... (Letra de la canción)"
+},
+{
+  "_id": 40,
+  "Canción": "Canción40",
+  "Autor": {
+    "Nombres": "Isabel",
+    "Apellidos": "Mendoza",
+    "Edad": 30,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 40",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto, ... (Letra de la canción)"
+},
+{
+  "_id": 41,
+  "Canción": "Canción41",
+  "Autor": {
+    "Nombres": "Ricardo",
+    "Apellidos": "Sánchez",
+    "Edad": 31,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 41",
+  "Género musical": "Ranchera",
+  "Álbum": "Pasión Mexicana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 55
+  },
+  "Letra": "En el corazón de Jalisco, donde el mariachi suena, ... (Letra de la canción)"
+},
+{
+  "_id": 45,
+  "Canción": "Canción45",
+  "Autor": {
+    "Nombres": "Elena",
+    "Apellidos": "Mendoza",
+    "Edad": 32,
+    "País de origen": "Perú"
+  },
+  "Interprete": "Artista 45",
+  "Género musical": "Salsa",
+  "Álbum": "Sabor Tropical",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 0
+  },
+  "Letra": "En la pista de baile, la salsa nos envuelve, ... (Letra de la canción)"
+},
+{
+  "_id": 6,
+  "Canción": "Canción6",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "López",
+    "Edad": 25,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 6",
+  "Género musical": "Rock Nacional",
+  "Álbum": "Rocanrol en las Venas",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 50
+  },
+  "Letra": "En el escenario iluminado, donde las guitarras gritan,\nCantamos con actitud, en un rock que nunca se marchita,\nEs la rebeldía en las venas, historias de rebeldía,\nEn cada verso, siento la energía, rock, fuego en las almas.\n\nLas luces parpadean, el público no se agita,\nTus acordes en mi mente, como un rugido que incita,\nEl mundo desaparece, somos tú y yo, en la música infinita,\nEn esta canción de rock, la rebeldía que nos habita.\n\nEs el grito de la juventud, el rugir de la ciudad,\nLetras que desafían, en cada acorde, la verdad,\nEn cada estrofa, la pasión se libera, no hay edad,\nRock, música eterna, en cada corazón, la libertad.\n\nEspero que esta letra de canción de rock te haga sentir la fuerza de la música. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 2,
+  "Canción": "Canción2",
+  "Autor": {
+    "Nombres": "Luis",
+    "Apellidos": "González",
+    "Edad": 34,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 2",
+  "Género musical": "Rock",
+  "Álbum": "Guitarra en Llamas",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad de luces parpadeantes,\nDonde el sol se oculta tras los edificios gigantes,\nCaminando por las calles de concreto y metal,\nTu sonrisa me ilumina, el mundo es irreal.\n\nEs un viaje en la noche sin final,\nBajo el manto de estrellas sin igual,\nBaila conmigo, no miremos atrás,\nDos almas en la oscuridad, sin temor a naufragar.\n\nLa guitarra resuena, nos hace soñar,\nTus versos en mi mente, como un eterno despertar,\nEl mundo desaparece, somos tú y yo, un solo compás,\nEn esta canción de rock, nuestro viaje sin final.\n\nEs un viaje en la noche sin final,\nBajo el manto de estrellas sin igual,\nBaila conmigo, no miremos atrás,\nDos almas en la oscuridad, sin temor a naufragar.\n\nY cuando el sol al horizonte quiera regresar,\nNuestro viaje no se detendrá, seguirá sin cesar,\nSomos la melodía, la pasión que no se apagará,\nEn esta canción de rock, juntos a volar sin mirar atrás.\n\nEs un viaje en la noche sin final,\nBajo el manto de estrellas sin igual,\nBaila conmigo, no miremos atrás,\nDos almas en la oscuridad, sin temor a naufragar.\n\nEspero que esta letra de canción te haya gustado. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 16,
+  "Canción": "Canción16",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "Sánchez",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 16",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 58
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 31,
+  "Canción": "Canción31",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Torres",
+    "Edad": 28,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 31",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 50
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto, ... (Letra de la canción)"
+},
+{
+  "_id": 12,
+  "Canción": "Canción12",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "González",
+    "Edad": 26,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 12",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en el Baile",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En el rincón del barrio, donde el tango se despierta,\nBailamos abrazados, en cada compás el alma se libera,\nEs el lamento en el bandoneón, historias de amor y puñales,\nEn cada verso, siento el suspiro, tango, pasión en los bares.\n\nLas luces tenues iluminan la pista secreta,\nTus pasos en mi mente, como la nostalgia que aprieta,\nEl mundo desaparece, somos tú y yo, en esta danza repleta,\nEn esta canción de tango, el abrazo que el corazón interpreta.\n\nEs el lamento del suburbio, el romance de la ciudad,\nLetras que narran amores, traiciones, verdad,\nEn cada estrofa, la pasión se desborda, no hay soledad,\nTango, música del alma, en cada corazón, una realidad.\n\nEspero que esta letra de canción de tango te haga sentir el abrazo apasionado. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 15,
+  "Canción": "Canción15",
+  "Autor": {
+    "Nombres": "Luis",
+    "Apellidos": "González",
+    "Edad": 33,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 15",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En el rincón del pueblo, donde el mariachi canta,\nVestidos de charro, la música nos levanta,\nGuitarras y trompetas, la fiesta nunca se quebranta,\nMariachi, orgullo mexicano, en cada nota, una planta.\n\nEs el grito de ¡Viva México! en cada plaza,\nLetras que celebran la patria, en cada voz, una casa,\nEn cada estrofa, el alma se llena de esperanza,\nMariachi, música del pueblo, en cada corazón, bonanza.\n\nLas trompetas resplandecen, el violín no descansa,\nTus versos en mi mente, como un himno que avanza,\nEl mundo desaparece, somos tú y yo, en esta danza,\nEn esta canción de mariachi, la tradición que nunca se olvida.\n\nEs el grito de ¡Viva México! en cada plaza,\nLetras que celebran la patria, en cada voz, una casa,\nEn cada estrofa, el alma se llena de esperanza,\nMariachi, música del pueblo, en cada corazón, bonanza.\n\nEspero que esta letra de canción de mariachi te haga sentir el orgullo mexicano. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 20,
+  "Canción": "Canción20",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Lopez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 20",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 58
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida,\nGuitarra en mano, canto apasionado, en cada esquina se oye,\nBailaora en el tablao, el público aplaude, ole y olé,\nFlamenco, pasión gitana, en esta tierra querida.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nLas palmas marcan el ritmo, el taconeo hace vibrar,\nEl vino y la pasión se entrelazan, no hay lugar para callar,\nEn cada falseta, el alma se entrega, no hay miedo a llorar,\nFlamenco, arte ancestral, en cada corazón, un altar.\n\nEs el duende que se siente, la emoción en cada compás,\nLetras profundas, como suspiros de un alma en paz,\nEn cada estrofa, se desborda la pasión sin igual,\nFlamenco, cante jondo, en cada rincón, un festival.\n\nEspero que esta letra de canción de flamenco te transporte a Andalucía. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 24,
+  "Canción": "Canción24",
+  "Autor": {
+    "Nombres": "Pedro",
+    "Apellidos": "Ruíz",
+    "Edad": 34,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 24",
+  "Género musical": "Ranchera",
+  "Álbum": "Voces del Corazón",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "Bajo el sombrero ranchero, donde el amor se desvela,\nCantamos con pasión, en una ranchera de lamento,\nEs el grito del alma, historias de desamor,\nEn cada verso, siento el dolor, ranchera, voz del corazón.\n\nLas guitarras resuenan, el tequila nos consuela,\nTus palabras en mi mente, como espinas en el viento,\nEl mundo desaparece, somos tú y yo, en la tristeza eterna,\nEn esta canción ranchera, nuestro lamento sincero.\n\nEs el lamento del pueblo, el desgarro del alma,\nLetras que cuentan historias, tragedias y calma,\nEn cada estrofa, el sentimiento se derrama,\nRanchera, canto sincero, en cada copa de tequila, el drama.\n\nEspero que esta letra de canción de ranchera te haga sentir el alma de México. Si deseas más, no dudes en preguntar."
+},
+{
+  "_id": 43,
+  "Canción": "Canción43",
+  "Autor": {
+    "Nombres": "Juan",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Colombia"
+  },
+  "Interprete": "Artista 43",
+  "Género musical": "Cumbia",
+  "Álbum": "Ritmo Caliente",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 30
+  },
+  "Letra": "En la playa caribeña, donde el sol brilla en lo alto, ... (Letra de la canción)"
+},
+{
+  "_id": 47,
+  "Canción": "Canción47",
+  "Autor": {
+    "Nombres": "Sofía",
+    "Apellidos": "Ramírez",
+    "Edad": 28,
+    "País de origen": "Chile"
+  },
+  "Interprete": "Artista 47",
+  "Género musical": "Pop latino",
+  "Álbum": "Balas perdidas",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 50
+  },
+  "Letra": "En la ciudad de luces brillantes, ... (Letra de la canción)"
+},
+{
+  "_id": 50,
+  "Canción": "Canción50",
+  "Autor": {
+    "Nombres": "María",
+    "Apellidos": "Fernández",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 50",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión Gitana",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 30
+  },
+  "Letra": "En el corazón de Andalucía, el flamenco cobra vida, ... (Letra de la canción)"
+},
+{
+  "_id": 52,
+  "Canción": "Canción52",
+  "Autor": {
+    "Nombres": "John",
+    "Apellidos": "Smith",
+    "Edad": 33,
+    "País de origen": "Estados Unidos"
+  },
+  "Interprete": "Artista 52",
+  "Género musical": "Rock",
+  "Álbum": "Rebelión en la Ciudad",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city lights, we make our stand,\nRebels in the streets, we take command,\nGuitar's screaming, drums pounding loud,\nIn this rock song, we break the crowd."
+},
+{
+  "_id": 53,
+  "Canción": "Canción53",
+  "Autor": {
+    "Nombres": "Antonia",
+    "Apellidos": "Fernández",
+    "Edad": 28,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 53",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en las Calles",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el barrio, la noche cae,\nEl tango nos envuelve, la pasión no se va,\nDos corazones se entrelazan, en un abrazo\nEn esta canción de tango, el amor es un lazo."
+},
+{
+  "_id": 58,
+  "Canción": "Canción58",
+  "Autor": {
+    "Nombres": "Alex",
+    "Apellidos": "Johnson",
+    "Edad": 28,
+    "País de origen": "Estados Unidos"
+  },
+  "Interprete": "Artista 58",
+  "Género musical": "Hip-Hop",
+  "Álbum": "Urban Stories",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 0
+  },
+  "Letra": "In the city streets, the rhythm's alive,\nHip-hop beats, the stories we write,\nFrom the block to the stage, we break the mold,\nIn this hip-hop song, our stories are told."
+},
+{
+  "_id": 66,
+  "Canción": "Canción66",
+  "Autor": {
+    "Nombres": "Kenta",
+    "Apellidos": "Sato",
+    "Edad": 29,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 66",
+  "Género musical": "J-Pop",
+  "Álbum": "Tokio en Colores",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "東京の色とリズム、\n私たちが踊ります、\nJ-Popのメロディ、\nこの曲で、私たちの心は彩ります。"
+},
+{
+  "_id": 54,
+  "Canción": "Canción54",
+  "Autor": {
+    "Nombres": "Hans",
+    "Apellidos": "Schmidt",
+    "Edad": 30,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 54",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces Nocturnas",
+  "Duración": {
+    "minutos": 5,
+    "segundos": 12
+  },
+  "Letra": "In the neon city, we come alive,\nElectric beats, the night's our drive,\nDancing in the shadows, under the stars,\nIn this electronic song, we break the bars."
+},
+{
+  "_id": 55,
+  "Canción": "Canción55",
+  "Autor": {
+    "Nombres": "Rosa",
+    "Apellidos": "Martínez López",
+    "Edad": 26,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 55",
+  "Género musical": "Ranchera",
+  "Álbum": "Corazón Mexicano",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la cantina, mi voz se alza,\nRanchera en el aire, el amor me abraza,\nCon la guitarra y el tequila, canto al sol,\nEn esta canción ranchera, mi corazón es fiel."
+},
+{
+  "_id": 57,
+  "Canción": "Canción57",
+  "Autor": {
+    "Nombres": "Elena",
+    "Apellidos": "García",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 57",
+  "Género musical": "Flamenco",
+  "Álbum": "Fuego y Pasión",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "En la noche flamenca, el corazón late,\nLas palmas suenan, el alma se enciende,\nEn el tablao, la pasión se desata,\nEn esta canción flamenca, el arte nos vende."
+},
+{
+  "_id": 60,
+  "Canción": "Canción60",
+  "Autor": {
+    "Nombres": "Makoto",
+    "Apellidos": "Suzuki",
+    "Edad": 27,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 60",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Tokio",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 55
+  },
+  "Letra": "東京の夢の中で、\n私たちは歌って踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの魂は踊ります。"
+},
+{
+  "_id": 61,
+  "Canción": "Canción61",
+  "Autor": {
+    "Nombres": "Antonio",
+    "Apellidos": "Martínez",
+    "Edad": 32,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 61",
+  "Género musical": "Flamenco",
+  "Álbum": "Puro Flamenco",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 67,
+  "Canción": "Canción67",
+  "Autor": {
+    "Nombres": "Luis",
+    "Apellidos": "García",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 67",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 50
+  },
+  "Letra": "En el tablao flamenco, el duende nos guía,\nLas palmas y el cante, la pasión se desafía,\nBailando con el alma, en esta noche estrellada,\nEn esta canción flamenca, la pasión no está callada."
+},
+{
+  "_id": 72,
+  "Canción": "Canción72",
+  "Autor": {
+    "Nombres": "Yuki",
+    "Apellidos": "Tanaka",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 72",
+  "Género musical": "J-Pop",
+  "Álbum": "Tokio en Armonía",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "東京の響き、\n私たちは歌い踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの心は調和します。"
+},
+{
+  "_id": 73,
+  "Canción": "Canción73",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "López Martínez",
+    "Edad": 30,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 73",
+  "Género musical": "Flamenco",
+  "Álbum": "Alma y Pasión",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 76,
+  "Canción": "Canción76",
+  "Autor": {
+    "Nombres": "Sophie",
+    "Apellidos": "Schneider",
+    "Edad": 30,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 76",
+  "Género musical": "Electrónica",
+  "Álbum": "Noches de Fiesta",
+  "Duración": {
+    "minutos": 5,
+    "segundos": 12
+  },
+  "Letra": "In the neon city, we come alive,\nElectric beats, the night's our drive,\nDancing in the shadows, under the stars,\nIn this electronic song, we break the bars."
+},
+{
+  "_id": 79,
+  "Canción": "Canción79",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Martínez López",
+    "Edad": 25,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 79",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 80,
+  "Canción": "Canción80",
+  "Autor": {
+    "Nombres": "Takashi",
+    "Apellidos": "Sato",
+    "Edad": 29,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 80",
+  "Género musical": "J-Pop",
+  "Álbum": "Tokio en Harmonía",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "東京の響き、\n私たちは歌い踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの心は調和します。"
+},
+{
+  "_id": 91,
+  "Canción": "Canción91",
+  "Autor": {
+    "Nombres": "Manuel",
+    "Apellidos": "Martínez",
+    "Edad": 32,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 91",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 65,
+  "Canción": "Canción65",
+  "Autor": {
+    "Nombres": "Sofía",
+    "Apellidos": "Martínez Pérez",
+    "Edad": 25,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 65",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 70,
+  "Canción": "Canción70",
+  "Autor": {
+    "Nombres": "Lena",
+    "Apellidos": "Schmidt",
+    "Edad": 30,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 70",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces en la Oscuridad",
+  "Duración": {
+    "minutos": 5,
+    "segundos": 12
+  },
+  "Letra": "In the neon city, we come alive,\nElectric beats, the night's our drive,\nDancing in the shadows, under the stars,\nIn this electronic song, we break the bars."
+},
+{
+  "_id": 74,
+  "Canción": "Canción74",
+  "Autor": {
+    "Nombres": "David",
+    "Apellidos": "Williams",
+    "Edad": 28,
+    "País de origen": "Estados Unidos"
+  },
+  "Interprete": "Artista 74",
+  "Género musical": "Rock",
+  "Álbum": "Revolución de los Sueños",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city lights, we make our stand,\nRebels in the streets, we take command,\nGuitar's screaming, drums pounding loud,\nIn this rock song, we break the crowd."
+},
+{
+  "_id": 88,
+  "Canción": "Canción88",
+  "Autor": {
+    "Nombres": "Haruki",
+    "Apellidos": "Nakamura",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 88",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Osaka",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "大阪の夢の中で、\n私たちは歌い踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの心は躍ります。"
+},
+{
+  "_id": 90,
+  "Canción": "Canción90",
+  "Autor": {
+    "Nombres": "Takashi",
+    "Apellidos": "Sato",
+    "Edad": 29,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 90",
+  "Género musical": "J-Pop",
+  "Álbum": "Tokio en Harmonía",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "東京の響き、\n私たちは歌い踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの心は調和します。"
+},
+{
+  "_id": 97,
+  "Canción": "Canción97",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Gómez Martínez",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 97",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos del Rancho",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 98,
+  "Canción": "Canción98",
+  "Autor": {
+    "Nombres": "Haruki",
+    "Apellidos": "Nakamura",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 98",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Osaka",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "大阪の夢の中で、\n私たちは歌い踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの心は躍ります。"
+},
+{
+  "_id": 78,
+  "Canción": "Canción78",
+  "Autor": {
+    "Nombres": "Haruki",
+    "Apellidos": "Nakamura",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 78",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Osaka",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "大阪の夢の中で、\n私たちは歌い踊ります、\nJ-Popのリズムで、\nこの曲で、私たちの心は躍ります。"
+},
+{
+  "_id": 51,
+  "Canción": "Canción51",
+  "Autor": {
+    "Nombres": "Marina",
+    "Apellidos": "Sánchez Gómez",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 51",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión y Fuego",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 50
+  },
+  "Letra": "En el tablao, mi corazón canta,\nEl flamenco en el aire, la pasión levanta,\nLos tacones retumban, el cajón resuena,\nEn esta canción flamenca, el alma se llena."
+},
+{
+  "_id": 59,
+  "Canción": "Canción59",
+  "Autor": {
+    "Nombres": "Rosa",
+    "Apellidos": "Gómez Pérez",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 59",
+  "Género musical": "Ranchera",
+  "Álbum": "Voces de Jalisco",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 20
+  },
+  "Letra": "En el rancho, la guitarra suena,\nRanchera en la noche, la pasión se ordena,\nCon botas y sombrero, cantamos al amor,\nEn esta canción ranchera, nuestro orgullo y ardor."
+},
+{
+  "_id": 77,
+  "Canción": "Canción77",
+  "Autor": {
+    "Nombres": "María",
+    "Apellidos": "Gómez Pérez",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 77",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos del Rancho",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 81,
+  "Canción": "Canción81",
+  "Autor": {
+    "Nombres": "Manuel",
+    "Apellidos": "Martínez",
+    "Edad": 32,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 81",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 83,
+  "Canción": "Canción83",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 83",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 86,
+  "Canción": "Canción86",
+  "Autor": {
+    "Nombres": "Kenta",
+    "Apellidos": "Sato",
+    "Edad": 29,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 86",
+  "Género musical": "J-Pop",
+  "Álbum": "Tokio en Colores",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "東京の色とリズム、\n私たちが踊ります、\nJ-Popのメロディ、\nこの曲で、私たちの心は彩ります。"
+},
+{
+  "_id": 94,
+  "Canción": "Canción94",
+  "Autor": {
+    "Nombres": "Yui",
+    "Apellidos": "Nakamura",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 94",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Kioto",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "京都の夢の中で、\n私たちは歌って踊ります、\nJ-Popの魔法、\nこの曲で、私たちの心は浮かびます。"
+},
+{
+  "_id": 95,
+  "Canción": "Canción95",
+  "Autor": {
+    "Nombres": "Sofía",
+    "Apellidos": "Martínez Pérez",
+    "Edad": 25,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 95",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 64,
+  "Canción": "Canción64",
+  "Autor": {
+    "Nombres": "Yui",
+    "Apellidos": "Nakamura",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 64",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Kioto",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "京都の夢の中で、\n私たちは歌って踊ります、\nJ-Popの魔法、\nこの曲で、私たちの心は浮かびます。"
+},
+{
+  "_id": 69,
+  "Canción": "Canción69",
+  "Autor": {
+    "Nombres": "Federico",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 69",
+  "Género musical": "Tango",
+  "Álbum": "Milongas de Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el barrio de tango, el bandoneón suspira,\nMilongas en la noche, el alma gira,\nBailando en la calle, en esta pasión sin igual,\nEn esta canción de tango, el amor es la señal."
+},
+{
+  "_id": 75,
+  "Canción": "Canción75",
+  "Autor": {
+    "Nombres": "Camila",
+    "Apellidos": "Fernández",
+    "Edad": 29,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 75",
+  "Género musical": "Tango",
+  "Álbum": "Noches de Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el barrio de tango, el bandoneón suspira,\nMilongas en la noche, el alma gira,\nBailando en la calle, en esta pasión sin igual,\nEn esta canción de tango, el amor es la señal."
+},
+{
+  "_id": 82,
+  "Canción": "Canción82",
+  "Autor": {
+    "Nombres": "Emily",
+    "Apellidos": "Smith",
+    "Edad": 30,
+    "País de origen": "Reino Unido"
+  },
+  "Interprete": "Artista 82",
+  "Género musical": "Pop",
+  "Álbum": "Dreams and Melodies",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "In the city of dreams, we find our way,\nPop melodies, to brighten the day,\nSinging along, under the sky so blue,\nIn this pop song, our dreams come true."
+},
+{
+  "_id": 92,
+  "Canción": "Canción92",
+  "Autor": {
+    "Nombres": "Emily",
+    "Apellidos": "Smith",
+    "Edad": 30,
+    "País de origen": "Reino Unido"
+  },
+  "Interprete": "Artista 92",
+  "Género musical": "Pop",
+  "Álbum": "Dreams and Melodies",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "In the city of dreams, we find our way,\nPop melodies, to brighten the day,\nSinging along, under the sky so blue,\nIn this pop song, our dreams come true."
+},
+{
+  "_id": 96,
+  "Canción": "Canción96",
+  "Autor": {
+    "Nombres": "Kenta",
+    "Apellidos": "Sato",
+    "Edad": 29,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 96",
+  "Género musical": "J-Pop",
+  "Álbum": "Tokio en Colores",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "東京の色とリズム、\n私たちが踊ります、\nJ-Popのメロディ、\nこの曲で、私たちの心は彩ります。"
+},
+{
+  "_id": 56,
+  "Canción": "Canción56",
+  "Autor": {
+    "Nombres": "Yuki",
+    "Apellidos": "Nakamura",
+    "Edad": 29,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 56",
+  "Género musical": "J-Pop",
+  "Álbum": "Sakura Dreams",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 5
+  },
+  "Letra": "桜の木の下で、\n夢の中で踊る、\n愛の歌、\nこのJ-Popの曲で、私たちの心は飛びます。"
+},
+{
+  "_id": 63,
+  "Canción": "Canción63",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 63",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 62,
+  "Canción": "Canción62",
+  "Autor": {
+    "Nombres": "Emma",
+    "Apellidos": "Smith",
+    "Edad": 30,
+    "País de origen": "Reino Unido"
+  },
+  "Interprete": "Artista 62",
+  "Género musical": "Pop",
+  "Álbum": "Dreams and Melodies",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "In the city of dreams, we find our way,\nPop melodies, to brighten the day,\nSinging along, under the sky so blue,\nIn this pop song, our dreams come true."
+},
+{
+  "_id": 68,
+  "Canción": "Canción68",
+  "Autor": {
+    "Nombres": "Oliver",
+    "Apellidos": "Taylor",
+    "Edad": 28,
+    "País de origen": "Reino Unido"
+  },
+  "Interprete": "Artista 68",
+  "Género musical": "Pop",
+  "Álbum": "Dreams and Wishes",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 45
+  },
+  "Letra": "In the city of dreams, we chase the stars,\nPop melodies, to heal the scars,\nSinging in the night, with hearts so true,\nIn this pop song, our dreams come through."
+},
+{
+  "_id": 84,
+  "Canción": "Canción84",
+  "Autor": {
+    "Nombres": "Yui",
+    "Apellidos": "Nakamura",
+    "Edad": 28,
+    "País de origen": "Japón"
+  },
+  "Interprete": "Artista 84",
+  "Género musical": "J-Pop",
+  "Álbum": "Sueños de Kioto",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "京都の夢の中で、\n私たちは歌って踊ります、\nJ-Popの魔法、\nこの曲で、私たちの心は浮かびます。"
+},
+{
+  "_id": 87,
+  "Canción": "Canción87",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Gómez Martínez",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 87",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos del Rancho",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 99,
+  "Canción": "Canción99",
+  "Autor": {
+    "Nombres": "María",
+    "Apellidos": "Gómez López",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 99",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 71,
+  "Canción": "Canción71",
+  "Autor": {
+    "Nombres": "Sergio",
+    "Apellidos": "Gómez Martínez",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 71",
+  "Género musical": "Ranchera",
+  "Álbum": "Ranchos y Corazones",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 85,
+  "Canción": "Canción85",
+  "Autor": {
+    "Nombres": "Sofía",
+    "Apellidos": "Martínez Pérez",
+    "Edad": 25,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 85",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 89,
+  "Canción": "Canción89",
+  "Autor": {
+    "Nombres": "María",
+    "Apellidos": "Gómez López",
+    "Edad": 29,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 89",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 93,
+  "Canción": "Canción93",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 93",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 100,
+  "Canción": "Canción100",
+  "Autor": {
+    "Nombres": "Arcangel",
+    "Apellidos": "Martinez",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 100",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 10
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 105,
+  "Canción": "Canción105",
+  "Autor": {
+    "Nombres": "Marie",
+    "Apellidos": "Dupont",
+    "Edad": 26,
+    "País de origen": "Francia"
+  },
+  "Interprete": "Artista 105",
+  "Género musical": "Pop",
+  "Álbum": "Mélodies d'Amour",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "Dans la ville de l'amour, nous dansons,\nMélodies douces, sous la lune d'argent,\nChanter ensemble, c'est notre destin,\nDans cette chanson d'amour, le cœur est en fête."
+},
+{
+  "_id": 103,
+  "Canción": "Canción103",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "Sánchez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 103",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 106,
+  "Canción": "Canción106",
+  "Autor": {
+    "Nombres": "Antonio",
+    "Apellidos": "López",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 106",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 102,
+  "Canción": "Canción102",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "López Martínez",
+    "Edad": 30,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 102",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 109,
+  "Canción": "Canción109",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Brasil"
+  },
+  "Interprete": "Artista 109",
+  "Género musical": "Samba",
+  "Álbum": "Carnaval en Río",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "No coração do Brasil, nós sambar,\nRitmo quente, noite a brilhar,\nCantando juntos, a felicidade é geral,\nNesta canção de samba, a festa é sem igual."
+},
+{
+  "_id": 108,
+  "Canción": "Canción108",
+  "Autor": {
+    "Nombres": "Emiliano",
+    "Apellidos": "Moreno",
+    "Edad": 33,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 108",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 104,
+  "Canción": "Canción104",
+  "Autor": {
+    "Nombres": "Sophie",
+    "Apellidos": "Schneider",
+    "Edad": 29,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 104",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces de Neón",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city of lights, we find our way,\nElectronic beats, take us astray,\nDancing all night, under the neon sky,\nIn this electronic song, we're flying so high."
+},
+{
+  "_id": 107,
+  "Canción": "Canción107",
+  "Autor": {
+    "Nombres": "Elena",
+    "Apellidos": "García",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 107",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 101,
+  "Canción": "Canción101",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 101",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 114,
+  "Canción": "Canción114",
+  "Autor": {
+    "Nombres": "Elena",
+    "Apellidos": "García",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 114",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 111,
+  "Canción": "Canción111",
+  "Autor": {
+    "Nombres": "Sophie",
+    "Apellidos": "Schneider",
+    "Edad": 29,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 111",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces de Neón",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city of lights, we find our way,\nElectronic beats, take us astray,\nDancing all night, under the neon sky,\nIn this electronic song, we're flying so high."
+},
+{
+  "_id": 110,
+  "Canción": "Canción110",
+  "Autor": {
+    "Nombres": "Luis",
+    "Apellidos": "Fernández",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 110",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 115,
+  "Canción": "Canción115",
+  "Autor": {
+    "Nombres": "Emiliano",
+    "Apellidos": "Moreno",
+    "Edad": 33,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 115",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 116,
+  "Canción": "Canción116",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Brasil"
+  },
+  "Interprete": "Artista 116",
+  "Género musical": "Samba",
+  "Álbum": "Carnaval en Río",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "No coração do Brasil, nós sambar,\nRitmo quente, noite a brilhar,\nCantando juntos, a felicidade é geral,\nNesta canção de samba, a festa é sem igual."
+},
+{
+  "_id": 117,
+  "Canción": "Canción117",
+  "Autor": {
+    "Nombres": "Lucía",
+    "Apellidos": "Martínez",
+    "Edad": 28,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 117",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 118,
+  "Canción": "Canción118",
+  "Autor": {
+    "Nombres": "Lucas",
+    "Apellidos": "Rodríguez",
+    "Edad": 27,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 118",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 120,
+  "Canción": "Canción120",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 120",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 113,
+  "Canción": "Canción113",
+  "Autor": {
+    "Nombres": "Antonio",
+    "Apellidos": "López",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 113",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 119,
+  "Canción": "Canción119",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Mendoza",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 119",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 112,
+  "Canción": "Canción112",
+  "Autor": {
+    "Nombres": "Marie",
+    "Apellidos": "Dupont",
+    "Edad": 26,
+    "País de origen": "Francia"
+  },
+  "Interprete": "Artista 112",
+  "Género musical": "Pop",
+  "Álbum": "Mélodies d'Amour",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "Dans la ville de l'amour, nous dansons,\nMélodies douces, sous la lune d'argent,\nChanter ensemble, c'est notre destin,\nDans cette chanson d'amour, le cœur est en fête."
+},
+{
+  "_id": 133,
+  "Canción": "Canción133",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "López Martínez",
+    "Edad": 30,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 133",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 139,
+  "Canción": "Canción139",
+  "Autor": {
+    "Nombres": "Emiliano",
+    "Apellidos": "Moreno",
+    "Edad": 33,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 139",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 141,
+  "Canción": "Canción141",
+  "Autor": {
+    "Nombres": "Lucía",
+    "Apellidos": "Martínez",
+    "Edad": 28,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 141",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 146,
+  "Canción": "Canción146",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "Sánchez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 146",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 148,
+  "Canción": "Canción148",
+  "Autor": {
+    "Nombres": "Marie",
+    "Apellidos": "Dupont",
+    "Edad": 26,
+    "País de origen": "Francia"
+  },
+  "Interprete": "Artista 148",
+  "Género musical": "Pop",
+  "Álbum": "Mélodies d'Amour",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "Dans la ville de l'amour, nous dansons,\nMélodies douces, sous la lune d'argent,\nChanter ensemble, c'est notre destin,\nDans cette chanson d'amour, le cœur est en fête."
+},
+{
+  "_id": 123,
+  "Canción": "Canción123",
+  "Autor": {
+    "Nombres": "Sophie",
+    "Apellidos": "Schneider",
+    "Edad": 29,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 123",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces de Neón",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city of lights, we find our way,\nElectronic beats, take us astray,\nDancing all night, under the neon sky,\nIn this electronic song, we're flying so high."
+},
+{
+  "_id": 122,
+  "Canción": "Canción122",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "Sánchez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 122",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 124,
+  "Canción": "Canción124",
+  "Autor": {
+    "Nombres": "Marie",
+    "Apellidos": "Dupont",
+    "Edad": 26,
+    "País de origen": "Francia"
+  },
+  "Interprete": "Artista 124",
+  "Género musical": "Pop",
+  "Álbum": "Mélodies d'Amour",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "Dans la ville de l'amour, nous dansons,\nMélodies douces, sous la lune d'argent,\nChanter ensemble, c'est notre destin,\nDans cette chanson d'amour, le cœur est en fête."
+},
+{
+  "_id": 128,
+  "Canción": "Canción128",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Brasil"
+  },
+  "Interprete": "Artista 128",
+  "Género musical": "Samba",
+  "Álbum": "Carnaval en Río",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "No coração do Brasil, nós sambar,\nRitmo quente, noite a brilhar,\nCantando juntos, a felicidade é geral,\nNesta canção de samba, a festa é sem igual."
+},
+{
+  "_id": 132,
+  "Canción": "Canción132",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 132",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 136,
+  "Canción": "Canción136",
+  "Autor": {
+    "Nombres": "Marie",
+    "Apellidos": "Dupont",
+    "Edad": 26,
+    "País de origen": "Francia"
+  },
+  "Interprete": "Artista 136",
+  "Género musical": "Pop",
+  "Álbum": "Mélodies d'Amour",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "Dans la ville de l'amour, nous dansons,\nMélodies douces, sous la lune d'argent,\nChanter ensemble, c'est notre destin,\nDans cette chanson d'amour, le cœur est en fête."
+},
+{
+  "_id": 140,
+  "Canción": "Canción140",
+  "Autor": {
+    "Nombres": "Maria",
+    "Apellidos": "Santos",
+    "Edad": 30,
+    "País de origen": "Brasil"
+  },
+  "Interprete": "Artista 140",
+  "Género musical": "Samba",
+  "Álbum": "Carnaval en Río",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 40
+  },
+  "Letra": "No coração do Brasil, nós sambar,\nRitmo quente, noite a brilhar,\nCantando juntos, a felicidade é geral,\nNesta canção de samba, a festa é sem igual."
+},
+{
+  "_id": 134,
+  "Canción": "Canción134",
+  "Autor": {
+    "Nombres": "Diego",
+    "Apellidos": "Sánchez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 134",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 129,
+  "Canción": "Canción129",
+  "Autor": {
+    "Nombres": "Lucía",
+    "Apellidos": "Martínez",
+    "Edad": 28,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 129",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 138,
+  "Canción": "Canción138",
+  "Autor": {
+    "Nombres": "Elena",
+    "Apellidos": "García",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 138",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 127,
+  "Canción": "Canción127",
+  "Autor": {
+    "Nombres": "Emiliano",
+    "Apellidos": "Moreno",
+    "Edad": 33,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 127",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 137,
+  "Canción": "Canción137",
+  "Autor": {
+    "Nombres": "Antonio",
+    "Apellidos": "López",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 137",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 142,
+  "Canción": "Canción142",
+  "Autor": {
+    "Nombres": "Lucas",
+    "Apellidos": "Rodríguez",
+    "Edad": 27,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 142",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 144,
+  "Canción": "Canción144",
+  "Autor": {
+    "Nombres": "Carlos",
+    "Apellidos": "González",
+    "Edad": 27,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 144",
+  "Género musical": "Ranchera",
+  "Álbum": "Sentimientos Rancheros",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 25
+  },
+  "Letra": "En el rancho, la pasión se siente,\nRanchera en el aire, el alma se encuentra,\nCon sombrero y espuela, cantamos al amor,\nEn esta canción ranchera, el sentimiento es el motor."
+},
+{
+  "_id": 147,
+  "Canción": "Canción147",
+  "Autor": {
+    "Nombres": "Sophie",
+    "Apellidos": "Schneider",
+    "Edad": 29,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 147",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces de Neón",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city of lights, we find our way,\nElectronic beats, take us astray,\nDancing all night, under the neon sky,\nIn this electronic song, we're flying so high."
+},
+{
+  "_id": 125,
+  "Canción": "Canción125",
+  "Autor": {
+    "Nombres": "Antonio",
+    "Apellidos": "López",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 125",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 121,
+  "Canción": "Canción121",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "López Martínez",
+    "Edad": 30,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 121",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 126,
+  "Canción": "Canción126",
+  "Autor": {
+    "Nombres": "Elena",
+    "Apellidos": "García",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 126",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 130,
+  "Canción": "Canción130",
+  "Autor": {
+    "Nombres": "Lucas",
+    "Apellidos": "Rodríguez",
+    "Edad": 27,
+    "País de origen": "Argentina"
+  },
+  "Interprete": "Artista 130",
+  "Género musical": "Tango",
+  "Álbum": "Pasión en Buenos Aires",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 15
+  },
+  "Letra": "En la ciudad porteña, el tango nos une,\nPasión en cada acorde, la noche se cierne,\nBailando abrazados, sentimos el ardor,\nEn esta canción de tango, el amor es el motor."
+},
+{
+  "_id": 135,
+  "Canción": "Canción135",
+  "Autor": {
+    "Nombres": "Sophie",
+    "Apellidos": "Schneider",
+    "Edad": 29,
+    "País de origen": "Alemania"
+  },
+  "Interprete": "Artista 135",
+  "Género musical": "Electrónica",
+  "Álbum": "Luces de Neón",
+  "Duración": {
+    "minutos": 4,
+    "segundos": 15
+  },
+  "Letra": "In the city of lights, we find our way,\nElectronic beats, take us astray,\nDancing all night, under the neon sky,\nIn this electronic song, we're flying so high."
+},
+{
+  "_id": 143,
+  "Canción": "Canción143",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Mendoza",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 143",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 145,
+  "Canción": "Canción145",
+  "Autor": {
+    "Nombres": "Ana",
+    "Apellidos": "López Martínez",
+    "Edad": 30,
+    "País de origen": "México"
+  },
+  "Interprete": "Artista 145",
+  "Género musical": "Mariachi",
+  "Álbum": "Viva México",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 30
+  },
+  "Letra": "En el mariachi, el corazón canta,\nLa trompeta suena, la pasión levanta,\nEn el pueblo, la fiesta es eterna,\nEn esta canción de mariachi, el alma se gobierna."
+},
+{
+  "_id": 131,
+  "Canción": "Canción131",
+  "Autor": {
+    "Nombres": "Luisa",
+    "Apellidos": "Mendoza",
+    "Edad": 29,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 131",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 149,
+  "Canción": "Canción149",
+  "Autor": {
+    "Nombres": "Antonio",
+    "Apellidos": "López",
+    "Edad": 31,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 149",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+},
+{
+  "_id": 150,
+  "Canción": "Canción150",
+  "Autor": {
+    "Nombres": "Isabel",
+    "Apellidos": "Gómez",
+    "Edad": 28,
+    "País de origen": "España"
+  },
+  "Interprete": "Artista 150",
+  "Género musical": "Flamenco",
+  "Álbum": "Pasión en el Alma",
+  "Duración": {
+    "minutos": 3,
+    "segundos": 35
+  },
+  "Letra": "En la noche flamenca, el alma se alza,\nLas guitarras lloran, la pasión no descansa,\nEn el tablao, el corazón se libera,\nEn esta canción flamenca, el duende se espera."
+}]

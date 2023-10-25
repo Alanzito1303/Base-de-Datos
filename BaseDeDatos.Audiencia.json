@@ -1,0 +1,400 @@
+[{
+  "_id": 1,
+  "Edad promedio": 25,
+  "Género musical": "Rock",
+  "Ubicación": "Bolivia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 17,
+  "Edad promedio": 30,
+  "Género musical": "Rock",
+  "Ubicación": "Ecuador",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 7,
+  "Edad promedio": 24,
+  "Género musical": "Indie",
+  "Ubicación": "Colombia",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 22,
+  "Edad promedio": 23,
+  "Género musical": "Electrónica",
+  "Ubicación": "Bolivia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 42,
+  "Edad promedio": 22,
+  "Género musical": "Jazz",
+  "Ubicación": "Guatemala",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 8,
+  "Edad promedio": 29,
+  "Género musical": "Metal",
+  "Ubicación": "Ecuador",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 16,
+  "Edad promedio": 24,
+  "Género musical": "Pop",
+  "Ubicación": "Colombia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 30,
+  "Edad promedio": 24,
+  "Género musical": "Electrónica",
+  "Ubicación": "Bolivia",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 34,
+  "Edad promedio": 26,
+  "Género musical": "Jazz",
+  "Ubicación": "Guatemala",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 47,
+  "Edad promedio": 29,
+  "Género musical": "Reggae",
+  "Ubicación": "Chile",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 3,
+  "Edad promedio": 22,
+  "Género musical": "Electrónica",
+  "Ubicación": "México",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 2,
+  "Edad promedio": 28,
+  "Género musical": "Pop",
+  "Ubicación": "Argentina",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 6,
+  "Edad promedio": 26,
+  "Género musical": "Reggae",
+  "Ubicación": "Chile",
+  "Nivel Socioeconómico": "Bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 5,
+  "Edad promedio": 27,
+  "Género musical": "Clásica",
+  "Ubicación": "Perú",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 11,
+  "Edad promedio": 27,
+  "Género musical": "Rock",
+  "Ubicación": "México",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 29,
+  "Edad promedio": 28,
+  "Género musical": "Pop",
+  "Ubicación": "Argentina",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 20,
+  "Edad promedio": 25,
+  "Género musical": "Pop",
+  "Ubicación": "México",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 18,
+  "Edad promedio": 22,
+  "Género musical": "Jazz",
+  "Ubicación": "Guatemala",
+  "Nivel Socioeconómico": "Bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 19,
+  "Edad promedio": 27,
+  "Género musical": "Hip-Hop",
+  "Ubicación": "Venezuela",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 35,
+  "Edad promedio": 25,
+  "Género musical": "Hip-Hop",
+  "Ubicación": "Venezuela",
+  "Nivel Socioeconómico": "Bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 39,
+  "Edad promedio": 29,
+  "Género musical": "Reggae",
+  "Ubicación": "Chile",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 45,
+  "Edad promedio": 25,
+  "Género musical": "Pop",
+  "Ubicación": "Argentina",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 46,
+  "Edad promedio": 23,
+  "Género musical": "Electrónica",
+  "Ubicación": "Bolivia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 50,
+  "Edad promedio": 22,
+  "Género musical": "Jazz",
+  "Ubicación": "Guatemala",
+  "Nivel Socioeconómico": "Bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 9,
+  "Edad promedio": 23,
+  "Género musical": "Pop",
+  "Ubicación": "Venezuela",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 13,
+  "Edad promedio": 29,
+  "Género musical": "Pop",
+  "Ubicación": "Perú",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 14,
+  "Edad promedio": 26,
+  "Género musical": "Electrónica",
+  "Ubicación": "Bolivia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 28,
+  "Edad promedio": 31,
+  "Género musical": "Rock",
+  "Ubicación": "México",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 36,
+  "Edad promedio": 28,
+  "Género musical": "Rock",
+  "Ubicación": "México",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 37,
+  "Edad promedio": 22,
+  "Género musical": "Pop",
+  "Ubicación": "Argentina",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 38,
+  "Edad promedio": 27,
+  "Género musical": "Electrónica",
+  "Ubicación": "Bolivia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 40,
+  "Edad promedio": 24,
+  "Género musical": "Pop",
+  "Ubicación": "Colombia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 25,
+  "Edad promedio": 30,
+  "Género musical": "Rock",
+  "Ubicación": "Ecuador",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 26,
+  "Edad promedio": 22,
+  "Género musical": "Jazz",
+  "Ubicación": "Guatemala",
+  "Nivel Socioeconómico": "Bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 33,
+  "Edad promedio": 30,
+  "Género musical": "Rock",
+  "Ubicación": "Ecuador",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 41,
+  "Edad promedio": 30,
+  "Género musical": "Rock",
+  "Ubicación": "Ecuador",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 44,
+  "Edad promedio": 28,
+  "Género musical": "Rock",
+  "Ubicación": "México",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 12,
+  "Edad promedio": 25,
+  "Género musical": "Hip-Hop",
+  "Ubicación": "Argentina",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 4,
+  "Edad promedio": 30,
+  "Género musical": "Rap",
+  "Ubicación": "España",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 15,
+  "Edad promedio": 28,
+  "Género musical": "Reggae",
+  "Ubicación": "Chile",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 43,
+  "Edad promedio": 26,
+  "Género musical": "Hip-Hop",
+  "Ubicación": "Venezuela",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 49,
+  "Edad promedio": 30,
+  "Género musical": "Rock",
+  "Ubicación": "Ecuador",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 10,
+  "Edad promedio": 31,
+  "Género musical": "Jazz",
+  "Ubicación": "Guatemala",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 21,
+  "Edad promedio": 24,
+  "Género musical": "Rock",
+  "Ubicación": "Argentina",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 23,
+  "Edad promedio": 26,
+  "Género musical": "Reggae",
+  "Ubicación": "Chile",
+  "Nivel Socioeconómico": "Medio",
+  "Idioma": "Español"
+},
+{
+  "_id": 24,
+  "Edad promedio": 29,
+  "Género musical": "Pop",
+  "Ubicación": "Colombia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 27,
+  "Edad promedio": 25,
+  "Género musical": "Hip-Hop",
+  "Ubicación": "Venezuela",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 31,
+  "Edad promedio": 29,
+  "Género musical": "Reggae",
+  "Ubicación": "Chile",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 32,
+  "Edad promedio": 23,
+  "Género musical": "Pop",
+  "Ubicación": "Colombia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+},
+{
+  "_id": 48,
+  "Edad promedio": 24,
+  "Género musical": "Pop",
+  "Ubicación": "Colombia",
+  "Nivel Socioeconómico": "Medio bajo",
+  "Idioma": "Español"
+}]

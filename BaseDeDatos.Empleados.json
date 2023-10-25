@@ -1,0 +1,200 @@
+[{
+  "_id": 1,
+  "Nombres": "Bruno",
+  "Apellidos": "Ramirez Meza",
+  "Edad": 32,
+  "Sexo": "Masculino",
+  "Puesto": "Gerente"
+},
+{
+  "_id": 6,
+  "Nombres": "María",
+  "Apellidos": "López Díaz",
+  "Edad": 29,
+  "Sexo": "Femenino",
+  "Puesto": "Gerente de Marketing Musical"
+},
+{
+  "_id": 15,
+  "Nombres": "Juan",
+  "Apellidos": "Díaz Ramírez",
+  "Edad": 32,
+  "Sexo": "Masculino",
+  "Puesto": "Editor de Video Musical"
+},
+{
+  "_id": 18,
+  "Nombres": "Valeria",
+  "Apellidos": "Fernández López",
+  "Edad": 31,
+  "Sexo": "Femenino",
+  "Puesto": "Distribuidor de Música en Línea"
+},
+{
+  "_id": 16,
+  "Nombres": "Luisa",
+  "Apellidos": "Torres García",
+  "Edad": 30,
+  "Sexo": "Femenino",
+  "Puesto": "Director de Ventas de Discos"
+},
+{
+  "_id": 3,
+  "Nombres": "Carlos",
+  "Apellidos": "Pérez Sánchez",
+  "Edad": 35,
+  "Sexo": "Masculino",
+  "Puesto": "Director Artístico"
+},
+{
+  "_id": 2,
+  "Nombres": "Ana",
+  "Apellidos": "González López",
+  "Edad": 28,
+  "Sexo": "Femenino",
+  "Puesto": "Ingeniero de Sonido"
+},
+{
+  "_id": 4,
+  "Nombres": "Sofía",
+  "Apellidos": "Torres Rodríguez",
+  "Edad": 26,
+  "Sexo": "Femenino",
+  "Puesto": "A&R (Artista y Repertorio)"
+},
+{
+  "_id": 8,
+  "Nombres": "Laura",
+  "Apellidos": "Ramírez Pérez",
+  "Edad": 27,
+  "Sexo": "Femenino",
+  "Puesto": "Diseñador de Portadas"
+},
+{
+  "_id": 12,
+  "Nombres": "Isabella",
+  "Apellidos": "Pérez López",
+  "Edad": 28,
+  "Sexo": "Femenino",
+  "Puesto": "Especialista en Contratos"
+},
+{
+  "_id": 13,
+  "Nombres": "Ricardo",
+  "Apellidos": "Sánchez González",
+  "Edad": 29,
+  "Sexo": "Masculino",
+  "Puesto": "Productor de Eventos Musicales"
+},
+{
+  "_id": 20,
+  "Nombres": "Lucía",
+  "Apellidos": "Soto Torres",
+  "Edad": 26,
+  "Sexo": "Femenino",
+  "Puesto": "Productor de Video Musical"
+},
+{
+  "_id": 7,
+  "Nombres": "Javier",
+  "Apellidos": "Soto Mendoza",
+  "Edad": 33,
+  "Sexo": "Masculino",
+  "Puesto": "Productor Ejecutivo"
+},
+{
+  "_id": 10,
+  "Nombres": "Valentina",
+  "Apellidos": "Fernández Torres",
+  "Edad": 25,
+  "Sexo": "Femenino",
+  "Puesto": "Promotor Musical"
+},
+{
+  "_id": 11,
+  "Nombres": "Miguel",
+  "Apellidos": "Hernández Martínez",
+  "Edad": 34,
+  "Sexo": "Masculino",
+  "Puesto": "Director de Arte"
+},
+{
+  "_id": 14,
+  "Nombres": "Camila",
+  "Apellidos": "Meza Soto",
+  "Edad": 27,
+  "Sexo": "Femenino",
+  "Puesto": "Ingeniero de Masterización"
+},
+{
+  "_id": 17,
+  "Nombres": "Andrés",
+  "Apellidos": "Gómez Pérez",
+  "Edad": 33,
+  "Sexo": "Masculino",
+  "Puesto": "Relaciones Públicas Musicales"
+},
+{
+  "_id": 5,
+  "Nombres": "Luis",
+  "Apellidos": "Martínez García",
+  "Edad": 30,
+  "Sexo": "Masculino",
+  "Puesto": "Compositor Musical"
+},
+{
+  "_id": 9,
+  "Nombres": "Diego",
+  "Apellidos": "Gómez Rodríguez",
+  "Edad": 31,
+  "Sexo": "Masculino",
+  "Puesto": "Ingeniero de Grabación"
+},
+{
+  "_id": 19,
+  "Nombres": "Roberto",
+  "Apellidos": "Ramírez Soto",
+  "Edad": 28,
+  "Sexo": "Masculino",
+  "Puesto": "Asesor Legal Musical"
+},
+{
+  "_id": 21,
+  "Nombres": "Jorge",
+  "Apellidos": "García Martínez",
+  "Edad": 35,
+  "Sexo": "Masculino",
+  "Puesto": "Director de Marketing Musical"
+},
+{
+  "_id": 22,
+  "Nombres": "Elena",
+  "Apellidos": "Meza Díaz",
+  "Edad": 27,
+  "Sexo": "Femenino",
+  "Puesto": "Asistente de Producción Musical"
+},
+{
+  "_id": 23,
+  "Nombres": "Santiago",
+  "Apellidos": "Torres Pérez",
+  "Edad": 29,
+  "Sexo": "Masculino",
+  "Puesto": "Especialista en Publicidad Musical"
+},
+{
+  "_id": 24,
+  "Nombres": "Isabel",
+  "Apellidos": "López Soto",
+  "Edad": 28,
+  "Sexo": "Femenino",
+  "Puesto": "Técnico de Equipos de Sonido"
+},
+{
+  "_id": 25,
+  "Nombres": "Alejandro",
+  "Apellidos": "Gómez Torres",
+  "Edad": 30,
+  "Sexo": "Masculino",
+  "Puesto": "Coordinador de Giras Musicales"
+}]

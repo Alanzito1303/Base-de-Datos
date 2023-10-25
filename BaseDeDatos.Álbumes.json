@@ -1,0 +1,650 @@
+[{
+  "_id": 2,
+  "Título": "Flores amargas",
+  "Artista": "Artista 2",
+  "Género musical": "Rock",
+  "Canciones": {
+    "1": "Sueños rotos",
+    "2": "Cenizas del pasado",
+    "3": "Noches oscuras",
+    "4": "Renacer"
+  },
+  "Reproducciones": 1987456
+},
+{
+  "_id": 1,
+  "Título": "Rosas rencorosas",
+  "Artista": "Artista 1",
+  "Género musical": "Pop latino",
+  "Canciones": {
+    "1": "Ya no estás",
+    "2": "Nada es igual",
+    "3": "Dolor del corazón",
+    "4": "La rosa tramposa"
+  },
+  "Reproducciones": 2330649
+},
+{
+  "_id": 7,
+  "Título": "Ritmo urbano",
+  "Artista": "Artista 7",
+  "Género musical": "Hip-Hop",
+  "Canciones": {
+    "1": "Calles de la ciudad",
+    "2": "Noches de fiesta",
+    "3": "Letras callejeras",
+    "4": "Bajo el neón"
+  },
+  "Reproducciones": 1558926
+},
+{
+  "_id": 10,
+  "Título": "Aventuras épicas",
+  "Artista": "Artista 10",
+  "Género musical": "Orquestal",
+  "Canciones": {
+    "1": "Batalla épica",
+    "2": "Héroes legendarios",
+    "3": "Mundos mágicos",
+    "4": "Destino incierto"
+  },
+  "Reproducciones": 2764392
+},
+{
+  "_id": 16,
+  "Título": "Sinfonía clásica",
+  "Artista": "Artista 16",
+  "Género musical": "Clásica",
+  "Canciones": {
+    "1": "Orquesta majestuosa",
+    "2": "Armonías eternas",
+    "3": "Notas solemnes",
+    "4": "Magia musical"
+  },
+  "Reproducciones": 1986571
+},
+{
+  "_id": 20,
+  "Título": "Melodías del alma",
+  "Artista": "Artista 20",
+  "Género musical": "Soul",
+  "Canciones": {
+    "1": "Alma profunda",
+    "2": "Gritos apasionados",
+    "3": "Sensaciones intensas",
+    "4": "Expresiones sinceras"
+  },
+  "Reproducciones": 1927642
+},
+{
+  "_id": 26,
+  "Título": "Ritmos del desierto",
+  "Artista": "Artista 26",
+  "Género musical": "World",
+  "Canciones": {
+    "1": "Arenas infinitas",
+    "2": "Dunas doradas",
+    "3": "Vientos del Sahara",
+    "4": "Noche estrellada"
+  },
+  "Reproducciones": 1857926
+},
+{
+  "_id": 44,
+  "Título": "Ritmos latinos",
+  "Artista": "Artista 44",
+  "Género musical": "Latino",
+  "Canciones": {
+    "1": "Salsa picante",
+    "2": "Baila y disfruta",
+    "3": "Ritmos tropicales",
+    "4": "Fiesta sin fin"
+  },
+  "Reproducciones": 1824956
+},
+{
+  "_id": 9,
+  "Título": "Sonidos tropicales",
+  "Artista": "Artista 9",
+  "Género musical": "Reggae",
+  "Canciones": {
+    "1": "Playa y sol",
+    "2": "Vibraciones positivas",
+    "3": "Ritmo relajante",
+    "4": "Bajo las palmeras"
+  },
+  "Reproducciones": 1897523
+},
+{
+  "_id": 28,
+  "Título": "Ritmo oriental",
+  "Artista": "Artista 28",
+  "Género musical": "World",
+  "Canciones": {
+    "1": "Sitar místico",
+    "2": "Tabla hipnótica",
+    "3": "Melodías exóticas",
+    "4": "Viaje espiritual"
+  },
+  "Reproducciones": 1683750
+},
+{
+  "_id": 38,
+  "Título": "Sueños mágicos",
+  "Artista": "Artista 38",
+  "Género musical": "New Age",
+  "Canciones": {
+    "1": "Misterios del bosque",
+    "2": "Magia en el aire",
+    "3": "Encantamiento secreto",
+    "4": "Aventura espiritual"
+  },
+  "Reproducciones": 2037461
+},
+{
+  "_id": 46,
+  "Título": "Ritmo tropical",
+  "Artista": "Artista 46",
+  "Género musical": "Tropical",
+  "Canciones": {
+    "1": "Playa y sol",
+    "2": "Ritmo caribeño",
+    "3": "Salsa caliente",
+    "4": "Mar y arena"
+  },
+  "Reproducciones": 1968340
+},
+{
+  "_id": 3,
+  "Título": "Cielo estrellado",
+  "Artista": "Artista 3",
+  "Género musical": "Electrónica",
+  "Canciones": {
+    "1": "Viaje cósmico",
+    "2": "Noche de neón",
+    "3": "Amanecer digital",
+    "4": "Galaxias interconectadas"
+  },
+  "Reproducciones": 3057183
+},
+{
+  "_id": 11,
+  "Título": "Viaje espacial",
+  "Artista": "Artista 11",
+  "Género musical": "Ambient",
+  "Canciones": {
+    "1": "Exploración cósmica",
+    "2": "Galaxias distantes",
+    "3": "Silencio del espacio",
+    "4": "Misterios del universo"
+  },
+  "Reproducciones": 2201758
+},
+{
+  "_id": 24,
+  "Título": "Música tropical",
+  "Artista": "Artista 24",
+  "Género musical": "Tropical",
+  "Canciones": {
+    "1": "Playa y sol",
+    "2": "Ritmo caribeño",
+    "3": "Salsa caliente",
+    "4": "Mar y arena"
+  },
+  "Reproducciones": 1968340
+},
+{
+  "_id": 6,
+  "Título": "Voces del viento",
+  "Artista": "Artista 6",
+  "Género musical": "Folk",
+  "Canciones": {
+    "1": "Canto del bosque",
+    "2": "Brisa suave",
+    "3": "Historias de montaña",
+    "4": "Amanecer en el valle"
+  },
+  "Reproducciones": 2485710
+},
+{
+  "_id": 8,
+  "Título": "Aurora boreal",
+  "Artista": "Artista 8",
+  "Género musical": "Ambient",
+  "Canciones": {
+    "1": "Luces en el cielo",
+    "2": "Paz y serenidad",
+    "3": "Reflejos gélidos",
+    "4": "Misterios del norte"
+  },
+  "Reproducciones": 2143865
+},
+{
+  "_id": 12,
+  "Título": "Ritmos caribeños",
+  "Artista": "Artista 12",
+  "Género musical": "Salsa",
+  "Canciones": {
+    "1": "Fiesta en la playa",
+    "2": "Bailando bajo las estrellas",
+    "3": "Ritmo caliente",
+    "4": "Noche de pasión"
+  },
+  "Reproducciones": 1928367
+},
+{
+  "_id": 15,
+  "Título": "Noches de jazz",
+  "Artista": "Artista 15",
+  "Género musical": "Jazz",
+  "Canciones": {
+    "1": "Ritmo suave",
+    "2": "Improvisación brillante",
+    "3": "Bajo las luces tenues",
+    "4": "Melodías nocturnas"
+  },
+  "Reproducciones": 1712530
+},
+{
+  "_id": 19,
+  "Título": "Ritmos africanos",
+  "Artista": "Artista 19",
+  "Género musical": "Afrobeat",
+  "Canciones": {
+    "1": "Danza tribal",
+    "2": "Ritmo salvaje",
+    "3": "Cantos ancestrales",
+    "4": "Fiesta en la sabana"
+  },
+  "Reproducciones": 2093478
+},
+{
+  "_id": 42,
+  "Título": "Sinfonía de cuerdas",
+  "Artista": "Artista 42",
+  "Género musical": "Clásica",
+  "Canciones": {
+    "1": "Orquesta apasionada",
+    "2": "Armonía de cuerdas",
+    "3": "Melodías clásicas",
+    "4": "Notas elegantes"
+  },
+  "Reproducciones": 2118365
+},
+{
+  "_id": 45,
+  "Título": "Sueños acústicos",
+  "Artista": "Artista 45",
+  "Género musical": "Acústico",
+  "Canciones": {
+    "1": "Melodías íntimas",
+    "2": "Cuerdas suaves",
+    "3": "Susurros acústicos",
+    "4": "Armonía natural"
+  },
+  "Reproducciones": 1654890
+},
+{
+  "_id": 50,
+  "Título": "Ritmo oriental",
+  "Artista": "Artista 50",
+  "Género musical": "World",
+  "Canciones": {
+    "1": "Sitar místico",
+    "2": "Tabla hipnótica",
+    "3": "Melodías exóticas",
+    "4": "Viaje espiritual"
+  },
+  "Reproducciones": 1683750
+},
+{
+  "_id": 31,
+  "Título": "Sinfonía de cuerdas",
+  "Artista": "Artista 31",
+  "Género musical": "Clásica",
+  "Canciones": {
+    "1": "Orquesta apasionada",
+    "2": "Armonía de cuerdas",
+    "3": "Melodías clásicas",
+    "4": "Notas elegantes"
+  },
+  "Reproducciones": 2118365
+},
+{
+  "_id": 39,
+  "Título": "Ritmo oriental",
+  "Artista": "Artista 39",
+  "Género musical": "World",
+  "Canciones": {
+    "1": "Sitar místico",
+    "2": "Tabla hipnótica",
+    "3": "Melodías exóticas",
+    "4": "Viaje espiritual"
+  },
+  "Reproducciones": 1683750
+},
+{
+  "_id": 17,
+  "Título": "Ritmo caribeño",
+  "Artista": "Artista 17",
+  "Género musical": "Merengue",
+  "Canciones": {
+    "1": "Baila la noche entera",
+    "2": "Calor tropical",
+    "3": "Fiesta caribeña",
+    "4": "Ritmo apasionado"
+  },
+  "Reproducciones": 2238746
+},
+{
+  "_id": 29,
+  "Título": "Canciones de amor",
+  "Artista": "Artista 29",
+  "Género musical": "Baladas",
+  "Canciones": {
+    "1": "Amor eterno",
+    "2": "Declaración sincera",
+    "3": "Pasión desenfrenada",
+    "4": "Compromiso eterno"
+  },
+  "Reproducciones": 1934862
+},
+{
+  "_id": 30,
+  "Título": "Ritmo urbano",
+  "Artista": "Artista 30",
+  "Género musical": "Hip-Hop",
+  "Canciones": {
+    "1": "Calles de la ciudad",
+    "2": "Noches de fiesta",
+    "3": "Letras callejeras",
+    "4": "Bajo el neón"
+  },
+  "Reproducciones": 1759247
+},
+{
+  "_id": 34,
+  "Título": "Sueños acústicos",
+  "Artista": "Artista 34",
+  "Género musical": "Acústico",
+  "Canciones": {
+    "1": "Melodías íntimas",
+    "2": "Cuerdas suaves",
+    "3": "Susurros acústicos",
+    "4": "Armonía natural"
+  },
+  "Reproducciones": 1654890
+},
+{
+  "_id": 43,
+  "Título": "Música celestial",
+  "Artista": "Artista 43",
+  "Género musical": "New Age",
+  "Canciones": {
+    "1": "Armonía divina",
+    "2": "Sonidos etéreos",
+    "3": "Paz interior",
+    "4": "Trascendencia espiritual"
+  },
+  "Reproducciones": 2275948
+},
+{
+  "_id": 49,
+  "Título": "Sueños mágicos",
+  "Artista": "Artista 49",
+  "Género musical": "New Age",
+  "Canciones": {
+    "1": "Misterios del bosque",
+    "2": "Magia en el aire",
+    "3": "Encantamiento secreto",
+    "4": "Aventura espiritual"
+  },
+  "Reproducciones": 2037461
+},
+{
+  "_id": 13,
+  "Título": "Melodías de la naturaleza",
+  "Artista": "Artista 13",
+  "Género musical": "New Age",
+  "Canciones": {
+    "1": "Armonía de la selva",
+    "2": "Canto de aves",
+    "3": "Fluyendo con el río",
+    "4": "Susurros del viento"
+  },
+  "Reproducciones": 2013745
+},
+{
+  "_id": 18,
+  "Título": "Sueños acústicos",
+  "Artista": "Artista 18",
+  "Género musical": "Acústico",
+  "Canciones": {
+    "1": "Melodías íntimas",
+    "2": "Cuerdas suaves",
+    "3": "Susurros acústicos",
+    "4": "Armonía natural"
+  },
+  "Reproducciones": 1654890
+},
+{
+  "_id": 22,
+  "Título": "Fiesta latina",
+  "Artista": "Artista 22",
+  "Género musical": "Latino",
+  "Canciones": {
+    "1": "Ritmo caliente",
+    "2": "Baila toda la noche",
+    "3": "Sabor latino",
+    "4": "Fiesta sin fin"
+  },
+  "Reproducciones": 2364971
+},
+{
+  "_id": 27,
+  "Título": "Sueños mágicos",
+  "Artista": "Artista 27",
+  "Género musical": "New Age",
+  "Canciones": {
+    "1": "Misterios del bosque",
+    "2": "Magia en el aire",
+    "3": "Encantamiento secreto",
+    "4": "Aventura espiritual"
+  },
+  "Reproducciones": 2037461
+},
+{
+  "_id": 35,
+  "Título": "Ritmo tropical",
+  "Artista": "Artista 35",
+  "Género musical": "Tropical",
+  "Canciones": {
+    "1": "Playa y sol",
+    "2": "Ritmo caribeño",
+    "3": "Salsa caliente",
+    "4": "Mar y arena"
+  },
+  "Reproducciones": 1968340
+},
+{
+  "_id": 37,
+  "Título": "Ritmos del desierto",
+  "Artista": "Artista 37",
+  "Género musical": "World",
+  "Canciones": {
+    "1": "Arenas infinitas",
+    "2": "Dunas doradas",
+    "3": "Vientos del Sahara",
+    "4": "Noche estrellada"
+  },
+  "Reproducciones": 1857926
+},
+{
+  "_id": 40,
+  "Título": "Canciones de amor",
+  "Artista": "Artista 40",
+  "Género musical": "Baladas",
+  "Canciones": {
+    "1": "Amor eterno",
+    "2": "Declaración sincera",
+    "3": "Pasión desenfrenada",
+    "4": "Compromiso eterno"
+  },
+  "Reproducciones": 1934862
+},
+{
+  "_id": 47,
+  "Título": "Sinfonía celestial",
+  "Artista": "Artista 47",
+  "Género musical": "Clásica",
+  "Canciones": {
+    "1": "Orquesta divina",
+    "2": "Armonías celestiales",
+    "3": "Notas etéreas",
+    "4": "Paz suprema"
+  },
+  "Reproducciones": 2193458
+},
+{
+  "_id": 4,
+  "Título": "Melodías del corazón",
+  "Artista": "Artista 4",
+  "Género musical": "R&B",
+  "Canciones": {
+    "1": "Amor eterno",
+    "2": "Susurros apasionados",
+    "3": "Latidos sinceros",
+    "4": "Dulce melancolía"
+  },
+  "Reproducciones": 1298037
+},
+{
+  "_id": 5,
+  "Título": "Sueños dorados",
+  "Artista": "Artista 5",
+  "Género musical": "Indie",
+  "Canciones": {
+    "1": "Aventura onírica",
+    "2": "Misterios de la mente",
+    "3": "Reflejos dorados",
+    "4": "Despertar mágico"
+  },
+  "Reproducciones": 1734291
+},
+{
+  "_id": 14,
+  "Título": "Canciones románticas",
+  "Artista": "Artista 14",
+  "Género musical": "Baladas",
+  "Canciones": {
+    "1": "Amor eterno",
+    "2": "Sueños compartidos",
+    "3": "Noches de pasión",
+    "4": "Latidos sinceros"
+  },
+  "Reproducciones": 2359864
+},
+{
+  "_id": 21,
+  "Título": "Rock clásico",
+  "Artista": "Artista 21",
+  "Género musical": "Rock",
+  "Canciones": {
+    "1": "Guitarra eléctrica",
+    "2": "Batería potente",
+    "3": "Voces enérgicas",
+    "4": "Solos legendarios"
+  },
+  "Reproducciones": 1859210
+},
+{
+  "_id": 25,
+  "Título": "Sinfonía celestial",
+  "Artista": "Artista 25",
+  "Género musical": "Clásica",
+  "Canciones": {
+    "1": "Orquesta divina",
+    "2": "Armonías celestiales",
+    "3": "Notas etéreas",
+    "4": "Paz suprema"
+  },
+  "Reproducciones": 2193458
+},
+{
+  "_id": 33,
+  "Título": "Ritmos latinos",
+  "Artista": "Artista 33",
+  "Género musical": "Latino",
+  "Canciones": {
+    "1": "Salsa picante",
+    "2": "Baila y disfruta",
+    "3": "Ritmos tropicales",
+    "4": "Fiesta sin fin"
+  },
+  "Reproducciones": 1824956
+},
+{
+  "_id": 36,
+  "Título": "Sinfonía celestial",
+  "Artista": "Artista 36",
+  "Género musical": "Clásica",
+  "Canciones": {
+    "1": "Orquesta divina",
+    "2": "Armonías celestiales",
+    "3": "Notas etéreas",
+    "4": "Paz suprema"
+  },
+  "Reproducciones": 2193458
+},
+{
+  "_id": 23,
+  "Título": "Canciones folk",
+  "Artista": "Artista 23",
+  "Género musical": "Folk",
+  "Canciones": {
+    "1": "Historias del pueblo",
+    "2": "Melodías rústicas",
+    "3": "Armonía campesina",
+    "4": "Sueños de la tierra"
+  },
+  "Reproducciones": 1548205
+},
+{
+  "_id": 32,
+  "Título": "Música celestial",
+  "Artista": "Artista 32",
+  "Género musical": "New Age",
+  "Canciones": {
+    "1": "Armonía divina",
+    "2": "Sonidos etéreos",
+    "3": "Paz interior",
+    "4": "Trascendencia espiritual"
+  },
+  "Reproducciones": 2275948
+},
+{
+  "_id": 41,
+  "Título": "Ritmo urbano",
+  "Artista": "Artista 41",
+  "Género musical": "Hip-Hop",
+  "Canciones": {
+    "1": "Calles de la ciudad",
+    "2": "Noches de fiesta",
+    "3": "Letras callejeras",
+    "4": "Bajo el neón"
+  },
+  "Reproducciones": 1759247
+},
+{
+  "_id": 48,
+  "Título": "Ritmos del desierto",
+  "Artista": "Artista 48",
+  "Género musical": "World",
+  "Canciones": {
+    "1": "Arenas infinitas",
+    "2": "Dunas doradas",
+    "3": "Vientos del Sahara",
+    "4": "Noche estrellada"
+  },
+  "Reproducciones": 1857926
+}]
